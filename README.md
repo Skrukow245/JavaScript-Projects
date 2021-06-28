@@ -6,15 +6,15 @@
 <h1> Projects</h1>
 <br>
 <nav>
-<a href="Pizza.html">Pizza Website</a>
+<a href="Pizza.html">Pizza Menu</a>
 <br>
-<a href="academy_cinemas.html">Movie Theatre Site</a>
+<a href="TicTacToe.html">TicTacToe Game</a>
  </nav>
 <br>
 <br>
-<h1> Space Station Site</h1>
+<h1> Pizza Menu</h1>
 <br>
-<p> This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image containers, and a form.</p>
-<h1> Movie Theatre Site</h1>
+<p> This is a menu that allows you to choose a pizza size of your preference with a mix of toppings. It then takes the input information and calculates a price for the order. </p>
+<h1> Tic-Tac-Toe Game</h1>
 <br>
-<p>This page is an example home page for a Movie theatre that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.</p>
+<p>The classic game of tic-tac-toe. You play against a computer and the winner is celebrated with a victory noise. The board is reset after a tie or win, and a new game is ready to be played. </p>
